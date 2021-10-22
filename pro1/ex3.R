@@ -8,6 +8,7 @@
 # - 생성 함수 : data.frame(열이름1=요소, 열이름2=요소, …)
 # - 처리 함수 : apply(), str(), ncol(), nrow(), summary() ...
 
+
 # vector로 데이터프레임 작성
 no <- c(1,2,3)
 name <- c('hong', 'lee','kim')
