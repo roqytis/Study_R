@@ -1,4 +1,5 @@
 #도수 분표표 - 범주형 중 명목형 자료 : gender, bloodtype
+
 df <- read.csv("testdata/ex_studentlist.csv")
 df
 
