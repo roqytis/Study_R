@@ -193,3 +193,4 @@ num[[1]][2]
 member <- list(name='hong', age=22)
 member
 member$name
+#help
