@@ -141,3 +141,4 @@ xm <- mean(x)
 c(xm, mean(x, trim = 0.10))
 
 ? mean
+? mean
