@@ -1,4 +1,5 @@
 # 기술 통계 : 추론통계를 위한 자료의 정리, 요약, 해석 등을 통해 자료의 특성을 규명하는 통계적 방법
+
 data <- read.csv('testdata/descriptive.csv',header = T)
 dim(data)
 head(data, 3)
