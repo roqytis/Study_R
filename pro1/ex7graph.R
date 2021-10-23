@@ -6,6 +6,7 @@ stu <- read.csv('testdata/ex_studentlist.csv')
 class(stu)
 head(stu,n=3)
 
+
 #막대 그래프
 barplot(stu$grade)
 table(stu$grade)
