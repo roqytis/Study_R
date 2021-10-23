@@ -1,4 +1,5 @@
-# MariaDB의 jicwon 테이블을 사용. 근무년수에 대한 연봉을 이용하여 회귀분석 모델 작성
+# MariaDB의 jikwon 테이블을 사용. 근무년수에 대한 연봉을 이용하여 회귀분석 모델 작성
+
 library(rJava)
 library(DBI)
 library(RJDBC)
