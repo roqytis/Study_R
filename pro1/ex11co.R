@@ -1,4 +1,5 @@
 # 상관관계 분석
+
 result <- read.csv("testdata/drinking_water.csv", header = TRUE, fileEncoding = 'utf-8')
 head(result)
 str(result)
