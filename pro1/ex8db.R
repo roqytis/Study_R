@@ -4,6 +4,7 @@ install.packages("DBI")
 install.packages("RJDBC")
 install.packages("RSQLite") #개인용 데이터베이스
 
+
 library(rjava)
 library(DBI)
 library(RJDBC)
