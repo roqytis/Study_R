@@ -1,4 +1,5 @@
 # 단순 선형회귀 모델 : 미국 여성 키, 몸무게 데이터 사용
+
 head(women,2) #R이 기본제공
 cor(women$height, women$weight) #0.9954948
 
