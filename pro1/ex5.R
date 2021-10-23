@@ -1,4 +1,5 @@
 # 산술, 관계, 논리 연산
+
 no<- 7
 no >= 2+2*2| no <5 %% 2
 no >= 5 & no <= 2
@@ -59,3 +60,7 @@ repeat{
   cnt = cnt + 2
   if(cnt > 10)break
 }
+
+vec <- rep("R",5)
+vec
+
