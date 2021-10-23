@@ -1,4 +1,5 @@
 #선형회귀 : iris dataset
+
 data(iris)
 head(iris, 3) 
 iris
