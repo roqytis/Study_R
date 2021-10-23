@@ -1,4 +1,5 @@
 # 다중회귀 분석 : 독립변수가 복수
+
 state.x77
 str(state.x77)
 class(state.x77)
